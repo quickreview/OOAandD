@@ -1,0 +1,15 @@
+C:\Users\79624\source\repos\ООАиД_1\ООАиД_1\obj\Debug\net6.0\ООАиД_1.csproj.AssemblyReference.cache
+C:\Users\79624\source\repos\ООАиД_1\ООАиД_1\obj\Debug\net6.0\ООАиД_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79624\source\repos\ООАиД_1\ООАиД_1\obj\Debug\net6.0\ООАиД_1.AssemblyInfoInputs.cache
+C:\Users\79624\source\repos\ООАиД_1\ООАиД_1\obj\Debug\net6.0\ООАиД_1.AssemblyInfo.cs
+C:\Users\79624\source\repos\ООАиД_1\ООАиД_1\obj\Debug\net6.0\ООАиД_1.csproj.CoreCompileInputs.cache
+C:\Users\79624\source\repos\ООАиД_1\ООАиД_1\bin\Debug\net6.0\ООАиД_1.exe
+C:\Users\79624\source\repos\ООАиД_1\ООАиД_1\bin\Debug\net6.0\ООАиД_1.deps.json
+C:\Users\79624\source\repos\ООАиД_1\ООАиД_1\bin\Debug\net6.0\ООАиД_1.runtimeconfig.json
+C:\Users\79624\source\repos\ООАиД_1\ООАиД_1\bin\Debug\net6.0\ООАиД_1.dll
+C:\Users\79624\source\repos\ООАиД_1\ООАиД_1\bin\Debug\net6.0\ООАиД_1.pdb
+C:\Users\79624\source\repos\ООАиД_1\ООАиД_1\obj\Debug\net6.0\ООАиД_1.dll
+C:\Users\79624\source\repos\ООАиД_1\ООАиД_1\obj\Debug\net6.0\refint\ООАиД_1.dll
+C:\Users\79624\source\repos\ООАиД_1\ООАиД_1\obj\Debug\net6.0\ООАиД_1.pdb
+C:\Users\79624\source\repos\ООАиД_1\ООАиД_1\obj\Debug\net6.0\ООАиД_1.genruntimeconfig.cache
+C:\Users\79624\source\repos\ООАиД_1\ООАиД_1\obj\Debug\net6.0\ref\ООАиД_1.dll
